@@ -1,7 +1,7 @@
 {
-    "name": "nodebb-theme-quickstart",
-    "version": "0.1.0",
-    "description": "Enter a description here",
+    "name": "nodebb-theme-lifehouse",
+    "version": "1.0.0",
+    "description": "LifehouseFans Community Theme",
     "main": "theme.less",
     "keywords": [],
     "license": "MIT",
@@ -29,5 +29,17 @@
         "eslint-plugin-import": "2.x",
         "husky": "5.0.9",
         "lint-staged": "10.5.4"
+    },
+    "author": {
+        "name": "Shawn Eggleston",
+        "email": "admin@lifehousefans.net",
+        "url": "https://lifehousefans.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gradiian/nodebb-theme-lifehouse"
+    },
+    "bugs": {
+        "url": "https://github.com/gradiian/nodebb-theme-lifehouse/issues"
     }
 }
