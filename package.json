@@ -1,6 +1,9 @@
 {
     "name": "nodebb-theme-lifehouse",
     "version": "1.0.0",
+    "nbbpm": {
+	    "compatibility": "^1.18.0"
+    },
     "description": "LifehouseFans Community Theme",
     "main": "theme.less",
     "keywords": [],
